@@ -1,8 +1,11 @@
 ## FileSquatting Exploitation by Example
 
 AhoyMateys => is the "signtool.exe" embedded as a resource into the QuatService.
+
 QuatService => the vulnerable service used in this example
+
 SquatExploit => the exploit code
+
 SquatExploitDemo.mkv => demo of the code working
 
 The service can be installed via powershell: 
